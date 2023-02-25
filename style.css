@@ -82,7 +82,11 @@ body{
 
 } 
 .quote-box button svg{
-    width: 20px;
-    margin-right: 10px;
+    width: 30px;
+    margin-right: 5px;
 }
+.quote-box button:nth-child(2){
+    background: transparent;
+    color: #333;
 
+}
