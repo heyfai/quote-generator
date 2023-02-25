@@ -38,11 +38,12 @@ body{
     transform: translateX(-50%);
 }
 .quote-box blockquote{
-    font-size: 26px;
+    font-size: 30px;
     min-height: 110px;
     }
     .quote-box blockquote::before, .quote-box blockquote::after{
         content: '"';
+        margin-top: 20px;
     }
     .quote-box span{
         display: block;
