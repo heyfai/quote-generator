@@ -81,3 +81,8 @@ body{
     cursor: pointer;
 
 } 
+.quote-box button svg{
+    width: 20px;
+    margin-right: 10px;
+}
+
